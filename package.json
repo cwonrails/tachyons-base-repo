@@ -1,0 +1,14 @@
+{
+  "name": "tachyons-base-repo",
+  "version": "1.0.0",
+  "description": "Hyper-minimal setup for building websites with tachyons",
+  "license": "MIT",
+  "author": "Chris Watson",
+  "repository": "git@github.com:cwonrails/tachyons-base-repo",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.html'"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.15.0"
+  }
+}
