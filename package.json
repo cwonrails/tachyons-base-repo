@@ -9,6 +9,6 @@
     "start": "browser-sync start --server --files '*.html'"
   },
   "devDependencies": {
-    "browser-sync": "^2.15.0"
+    "browser-sync": "^2.17.6"
   }
 }
